@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual Environment
+venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model Files (very important)
+models/*.gguf
+models/*.bin
+
+# Benchmarks output
+benchmarks/*.csv
+benchmarks/*.png
+
+# SQLite database (if you add memory logs later)
+*.db
+*.sqlite3
+
+# Uvicorn reload cache
+*.reload
