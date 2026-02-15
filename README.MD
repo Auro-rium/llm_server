@@ -2,7 +2,7 @@
 
 **This is a personal AI project that runs entirely on your own computer.**
 
-![Terminal Preview](terminal_preview.png)
+![Terminal Preview](terminal.png)
 
 It’s built to be fast, private, and look like a sci-fi interface. No internet required, no subscription fees, just raw compute.
 
